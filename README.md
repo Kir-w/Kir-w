@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kir-w
 - 👀 I’m interested in science and technologies
 - 🌱 I’m an engineering school student
-- 💞️ My favorite series is One Piece
 - 🎸 I enjoy listening to post-rock
