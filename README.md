@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kir-w
+- 👋 Hi, I’m Kylie
 - 👀 I’m interested in science and technologies
 - 🌱 I’m an engineering school student
 - 🎸 I enjoy listening to post-rock
