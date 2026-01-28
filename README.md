@@ -1,3 +1,3 @@
-- 🌱 Hi, I’m an engineering school student
+- 🌱 Hi, I’m an engineering student
 - 👀 I’m interested in science and technologies 
 - 🌻 I also enjoy doing photography : https://kyl13.my.canva.site/
