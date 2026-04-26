@@ -8,4 +8,4 @@
 
 ### Pacman
 
-![pacman](https://github.com/Kir-w/Kir-w/blob/output/pacman.svg)
+![pacman](https://github.com/Kir-w/Kir-w/blob/output/pacman-contribution-graph-dark.svg)
